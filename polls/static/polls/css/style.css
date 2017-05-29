@@ -1,0 +1,10 @@
+body{
+  background: white url("../images/teal.jpg") no-repeat right bottom;
+}
+li a{
+  font-family: Calibri;
+  font-size: 2em;
+  text-decoration: none;
+  color: black;
+
+}
